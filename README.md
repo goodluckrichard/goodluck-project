@@ -1,2 +1,30 @@
+<img width="940" height="435" alt="Screenshot 2026-07-23 055210" src="https://github.com/user-attachments/assets/4ca68b87-4e54-4816-b534-dca9cad35ab3" />
+<img width="935" height="434" alt="Screenshot 2026-07-23 055155" src="https://github.com/user-attachments/assets/e6b2b545-0e7c-4093-9729-326b2366025c" />
+<img width="936" height="435" alt="Screenshot 2026-07-23 055138" src="https://github.com/user-attachments/assets/6107b15c-723d-4ded-99c5-c22203de6683" />
+<img width="938" height="438" alt="Screenshot 2026-07-23 055119" src="https://github.com/user-attachments/assets/9ccdc39b-eafa-4c09-9b48-57d988d9dd53" />
+<img width="938" height="434" alt="Screenshot 2026-07-23 055105" src="https://github.com/user-attachments/assets/d2f87d7c-f0ed-400d-8233-de062607eac5" />
+<img width="939" height="443" alt="Screenshot 2026-07-23 055047" src="https://github.com/user-attachments/assets/42da62e0-085b-4ef1-a800-aaf926b2cb4d" />
+<img width="938" height="440" alt="Screenshot 2026-07-23 055005" src="https://github.com/user-attachments/assets/ef031a48-da16-40e2-b518-da83f73fff89" />
+<img width="935" height="438" alt="Screenshot 2026-07-23 054947" src="https://github.com/user-attachments/assets/5547bb9f-0cf9-4691-b0c5-a4b9e2b13cef" />
+<img width="935" height="437" alt="Screenshot 2026-07-23 054926" src="https://github.com/user-attachments/assets/4f529958-8a64-4a8f-8d07-7445a65896f4" />
+<img width="933" height="437" alt="Screenshot 2026-07-23 054852" src="https://github.com/user-attachments/assets/ea5fd052-04fd-459a-b753-36ccbb4b954a" />
+<img width="938" height="434" alt="Screenshot 2026-07-23 054834" src="https://github.com/user-attachments/assets/bce958be-03f4-4c63-b163-86c669bfa9d3" />
+<img width="935" height="437" alt="Screenshot 2026-07-23 054815" src="https://github.com/user-attachments/assets/5acf8d1a-1eaa-4e26-b0a7-c2526a81d12e" />
+<img width="943" height="439" alt="Screenshot 2026-07-23 054755" src="https://github.com/user-attachments/assets/b20c9a69-72a6-40ef-aec0-ddba62caec89" />
+<img width="939" height="439" alt="Screenshot 2026-07-23 054741" src="https://github.com/user-attachments/assets/f307d769-543a-460d-8bc5-a82816d564c9" />
+<img width="939" height="437" alt="Screenshot 2026-07-23 054726" src="https://github.com/user-attachments/assets/e4bf9066-dd97-42d5-bc2a-f5fa110dc91b" />
+<img width="942" height="442" alt="Screenshot 2026-07-23 054710" src="https://github.com/user-attachments/assets/a99e0b0a-2f4e-4db1-b8c3-cfc3db006f54" />
+<img width="941" height="440" alt="Screenshot 2026-07-23 054640" src="https://github.com/user-attachments/assets/a9f2c4e5-3213-4cdf-8033-8b0f3627e5f0" />
+<img width="935" height="437" alt="Screenshot 2026-07-23 054619" src="https://github.com/user-attachments/assets/3cf05f92-aaeb-4751-a330-8ecc52d210ce" />
+<img width="938" height="438" alt="Screenshot 2026-07-23 054601" src="https://github.com/user-attachments/assets/54687556-bda8-463e-8418-515a6aff90b1" />
+<img width="938" height="440" alt="Screenshot 2026-07-23 054515" src="https://github.com/user-attachments/assets/277f1b39-43f8-4de7-bdfa-d9dbef7515ce" />
+<img width="935" height="438" alt="Screenshot 2026-07-23 054359" src="https://github.com/user-attachments/assets/170d73c6-663b-44f5-b7cb-6cf4dff335f4" />
+<img width="941" height="437" alt="Screenshot 2026-07-23 054341" src="https://github.com/user-attachments/assets/e9ad1142-ddce-4113-a91f-a492c22ce7f2" />
+<img width="6" height="14" alt="Screenshot 2026-07-23 054157" src="https://github.com/user-attachments/assets/7669dbfb-9b96-4a40-99fa-c53a320028d8" />
+<img width="940" height="440" alt="Screenshot 2026-07-23 054137" src="https://github.com/user-attachments/assets/1a9d39cd-943d-4005-a920-2f69aefde325" />
+<img width="938" height="442" alt="Screenshot 2026-07-23 054107" src="https://github.com/user-attachments/assets/0ae406ac-d44e-4a2e-a5c9-a2e2a8c9d93e" />
+<img width="939" height="438" alt="Screenshot 2026-07-23 054041" src="https://github.com/user-attachments/assets/ed2de4de-e036-4f32-8c32-df569be2e5b7" />
+<img width="943" height="440" alt="Screenshot 2026-07-23 054020" src="https://github.com/user-attachments/assets/1fe7e999-f15f-48a2-baed-24d6882e7ebc" />
+<img width="944" height="436" alt="Screenshot 2026-07-23 053959" src="https://github.com/user-attachments/assets/ed61602a-3a0c-4340-97e5-20d6562bf82b" />
 # goodluck-project
 NeuroAI studies how the human brain processes information, learns, remembers, and makes decisions, then applies those insights to develop more efficient AI models. It also uses AI techniques to help scientists analyze and understand the brain.
